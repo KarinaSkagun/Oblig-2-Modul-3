@@ -1,0 +1,20 @@
+C:\Users\GET Academy Student\Desktop\Oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.csprojAssemblyReference.cache
+C:\Users\GET Academy Student\Desktop\Oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.AssemblyInfoInputs.cache
+C:\Users\GET Academy Student\Desktop\Oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.AssemblyInfo.cs
+C:\Users\GET Academy Student\Desktop\Oblig 2\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.deps.json
+C:\Users\GET Academy Student\Desktop\Oblig 2\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.runtimeconfig.json
+C:\Users\GET Academy Student\Desktop\Oblig 2\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.runtimeconfig.dev.json
+C:\Users\GET Academy Student\Desktop\Oblig 2\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.dll
+C:\Users\GET Academy Student\Desktop\Oblig 2\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.pdb
+C:\Users\GET Academy Student\Desktop\Oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.dll
+C:\Users\GET Academy Student\Desktop\Oblig 2\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.pdb
+C:\Users\GET Academy Student\Desktop\Oblig 2 Modul 3\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.deps.json
+C:\Users\GET Academy Student\Desktop\Oblig 2 Modul 3\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.runtimeconfig.json
+C:\Users\GET Academy Student\Desktop\Oblig 2 Modul 3\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.runtimeconfig.dev.json
+C:\Users\GET Academy Student\Desktop\Oblig 2 Modul 3\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.dll
+C:\Users\GET Academy Student\Desktop\Oblig 2 Modul 3\SimpleChess-master\SimpleChess\bin\Debug\netcoreapp2.2\SimpleChess.pdb
+C:\Users\GET Academy Student\Desktop\Oblig 2 Modul 3\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.csprojAssemblyReference.cache
+C:\Users\GET Academy Student\Desktop\Oblig 2 Modul 3\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.AssemblyInfoInputs.cache
+C:\Users\GET Academy Student\Desktop\Oblig 2 Modul 3\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.AssemblyInfo.cs
+C:\Users\GET Academy Student\Desktop\Oblig 2 Modul 3\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.dll
+C:\Users\GET Academy Student\Desktop\Oblig 2 Modul 3\SimpleChess-master\SimpleChess\obj\Debug\netcoreapp2.2\SimpleChess.pdb
